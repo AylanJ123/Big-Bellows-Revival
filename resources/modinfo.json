@@ -1,0 +1,14 @@
+{
+  "type": "code",
+  "name": "Big Bellows Revival",
+  "modid": "bellowsfix",
+  "version": "1.1.0",
+  "description": "Mechanical power, animation and air delivery for the vanilla large bellows.",
+  "authors": ["Onions", "AylanJ123"],
+  "dependencies": {
+    "game": "1.22.7"
+  },
+  "side": "universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true
+}
